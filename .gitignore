@@ -1,0 +1,5 @@
+#ignorar una carpeta completo, solo escribir el nombre de la carpeta
+carpeta_01 
+
+#ignorar un archivo.txt, simplemente escribe el nombre del archivp
+hola_mundo_02.html
